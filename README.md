@@ -1,2 +1,9 @@
-# email-triage-arena-aryan
-Original OpenEnv Email Triage for Meta PyTorch Hackathon
+metadata
+title: Email Triage System
+emoji: 📧
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.32.0
+app_file: app.py
+pinned: false
